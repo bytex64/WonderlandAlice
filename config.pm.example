@@ -1,0 +1,4 @@
+$nick = 'WonderlandAlice';
+$server = 'localhost';
+$port = 6667;
+@channels = ('#foo', '#bar');
